@@ -2,8 +2,6 @@
 
 This Power BI dashboard presents key insights and trends from the **WiTCON 2025** registration data. The project explores attendee demographics, academic backgrounds, and event participation. The goal is to inform future outreach, improve diversity tracking, and guide event planning for upcoming years.
 
-![Dashboard Preview](dashboard_preview.png)
-
 ---
 
 ## ✨ Key Insights
